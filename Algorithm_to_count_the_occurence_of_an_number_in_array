@@ -1,0 +1,9 @@
+Step 1: Start
+Step 2: Input number to find = num
+Step 3: Initialize a variable count = 0
+Step 4: Initialize an array of n size
+Step 4: Iterate the loop from 0 – n
+Step 5: check if a[i]=num
+       Step 5.1: count ++
+Step 6: Then, print the value of count 
+Step 7: End
