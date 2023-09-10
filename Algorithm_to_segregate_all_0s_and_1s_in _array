@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Declare an array of n size of 0s and 1s element.
+Step 3: Take the elements from user and store it in a variable.
+Step 4: Count the number of 0s and 1s present in the array.
+Step 5: Then print all 0s in the array and in the remaining space print all the 1s.
+Step 6: End
