@@ -1,0 +1,13 @@
+Step 1: Start
+Step 2: Initialize an array of size 5
+Step 3: Initialize sum = 0;
+Step 4: Iterate the loop from 0 to n
+Step 5: Sum = sum +arr[i]
+Step 6 print sum
+Step 7: Iterate the loop from 0 to n and i = i+2
+Step 8: Sum = sum +arr[i]
+Step 9: print sum
+Step 11: Initialize max and max2 to 0
+Step 12: Check if arr[i] = max2
+Step 13: Then max2 = max and max = arr[i]
+Step 14: Print max
