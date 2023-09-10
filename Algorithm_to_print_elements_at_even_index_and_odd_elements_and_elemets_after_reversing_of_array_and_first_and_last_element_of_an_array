@@ -1,0 +1,8 @@
+Step 1: Start
+Step 2: Declare an array of n size.
+Step 3: Take the elements of an array from user and store in a variable.
+Step 4: Check the index value when divide by 2 is zero, then print the element of an array at that index value.
+Step 5: Check the array element when divide by 2 is not zero, then print that element.
+Step 6: Reverse the array and print the elements after reversing
+Step 7: Print the element at first and last index.
+Step 8: End
