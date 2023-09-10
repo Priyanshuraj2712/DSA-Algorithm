@@ -1,0 +1,8 @@
+Step 1: Start
+Step 2: Declare an array of n size.
+Step 3: Take the elements from user and store it in a variable.
+Step 4: Input element which user wants to remove.
+Step 5: Check the index value to user entered element.
+Step 6: Shift the elements upwards to the index value of removing element.  
+Step 7: Then print the array.
+Step 8: End
