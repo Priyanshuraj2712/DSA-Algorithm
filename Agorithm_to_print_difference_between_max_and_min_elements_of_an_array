@@ -1,0 +1,8 @@
+Step 1: Start
+Step 1: Declare an array of n size.
+Step 2: Take the elements of an array from user and store in a variable.
+Step 3: Initialize the maximum and minimum element of an array.
+Step 4: Check the elements of an array which is maximum and minimum.
+Step 5: Declare a variable and store the difference of maximum and minimum element of an array.
+Step 6: Print the variable in which difference of maximum and minimum element is stored.
+Step 7: End
