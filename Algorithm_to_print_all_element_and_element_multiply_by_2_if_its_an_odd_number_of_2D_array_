@@ -1,0 +1,9 @@
+Step 1: Start
+Step 2: Initialize an array of m*n
+Step 3: Iterate the first loop from 0 – m
+Step 4: Iterate the second loop from 0 – n 
+Step 5: Then print a[m][n]
+Step 6: check if arr[m][n] % 2 != 0
+      Step 6.1 then arr[m][n]*2
+Step 7: print arr[m][n]
+Step 8: End 
