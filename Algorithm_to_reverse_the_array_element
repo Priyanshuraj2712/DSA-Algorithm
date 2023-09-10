@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Declare an array of n size.
+Step 3: Take the elements from the user and store it in a variable.
+Step 4: Divide all the elements by 10 and multiply the remainder by 10 and add the quotient.
+Step 5: Then print the array
+Step 6: End
