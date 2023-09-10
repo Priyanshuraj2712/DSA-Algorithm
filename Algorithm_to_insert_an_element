@@ -1,0 +1,8 @@
+Step 1: Start
+Step 2: Declare an array of n size.
+Step 3: Take the elements from user and store it in a variable.
+Step 4: Ask the user at which index you want to add the element.
+Step 5: Shift the element downward from the index value where user want to add the element.
+Step 6: Then add the element at empty index value.
+Step 7: Print the array
+Step 8: End
